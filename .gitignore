@@ -1,2 +1,4 @@
 /data/transactions.parquet
 /data/partitioning
+/data/bucketing
+/Notebooks/spark-warehouse
